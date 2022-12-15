@@ -13,7 +13,7 @@
  6. Push to repo.
  7. Wait for code review if necessary.
 
- good luck and have fun mf 
+ good luck and have fun mf :joy:
 
 
  ### Usefull links:
